@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.dependency 'toxcore', '0.1.10'
   s.dependency 'TPCircularBuffer', '~> 0.0.1'
   s.dependency 'CocoaLumberjack', '1.9.2'
-  s.dependency 'Realm', '1.0.1'
+  s.dependency 'Realm', '2.10.2'
 
   s.resource_bundle = {
       'objcTox' => 'Classes/Public/Manager/nodes.json'
